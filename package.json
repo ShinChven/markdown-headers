@@ -1,6 +1,6 @@
 {
   "name": "markdown-headers",
-  "version": "0.0.1-alpha3",
+  "version": "0.0.1",
   "description": "Parse markdown document's yaml headers.",
   "main": "lib/index.js",
   "scripts": {
