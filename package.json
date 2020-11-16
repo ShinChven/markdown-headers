@@ -1,0 +1,33 @@
+{
+  "name": "markdown-headers",
+  "version": "0.0.1-alpha3",
+  "description": "Parse markdown document's yaml headers.",
+  "main": "lib/index.js",
+  "scripts": {
+    "compile": "shx rm -rf lib && tsc",
+    "test": "ts-mocha test/markdown-header.parser.test.ts",
+    "prepublish": "npm run compile"
+  },
+  "keywords": [
+    "markdown",
+    "yaml"
+  ],
+  "author": {
+    "url": "https://github.com/ShinChven",
+    "name": "ShinChven ZHANG",
+    "email": "shinchven@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^3.14.0"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.2.14",
+    "@types/js-yaml": "^3.12.5",
+    "@types/mocha": "^8.0.4",
+    "@types/node": "^14.14.7",
+    "shx": "^0.3.3",
+    "ts-mocha": "^8.0.0",
+    "typescript": "^4.0.5"
+  }
+}
