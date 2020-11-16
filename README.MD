@@ -12,7 +12,7 @@ npm install markdown-headers
 
 ## Usage
 
-### in code
+### full example
 
 ```javascript
 const {parseMarkdownHeaders} = require('markdown-headers');

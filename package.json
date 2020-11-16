@@ -17,6 +17,9 @@
     "name": "ShinChven ZHANG",
     "email": "shinchven@gmail.com"
   },
+  "repository": {
+    "url": "https://github.com/ShinChven/markdown-headers.git"
+  },
   "license": "ISC",
   "dependencies": {
     "js-yaml": "^3.14.0"
