@@ -2,7 +2,7 @@
 
 Parse markdown document's yaml headers.
 
-[![npm version](http://img.shields.io/npm/v/markdown-headers.svg)](https://npmjs.org/package/markdown-headers)
+[![npm version](http://img.shields.io/npm/v/markdown-headers.svg?style=for-the-badge&logo=npm)](https://npmjs.org/package/markdown-headers)
 
 ## install
 
